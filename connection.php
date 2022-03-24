@@ -1,5 +1,5 @@
 <?php
-$conn_string = "host=	balarama.db.elephantsql.com " . 
+$conn_string = "host=balarama.db.elephantsql.com " . 
   "port=5432 dbname=vaxxxonn " .
   "user=vaxxxonn " . 
   "password=FIS22sGeO8YMeuqnW77SrXXZpbg5e_S9";
